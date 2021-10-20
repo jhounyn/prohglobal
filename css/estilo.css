@@ -17,14 +17,14 @@ header{
 }
 
 #menu{
-    width:20%; 
+    width:10%; 
     height:100%; 
     float:left; 
-    background:#FFFF99 
+    background:rgba(35, 219, 243, 0.918) 
 }
 
 #contenido{
-    width:80%; 
+    width:90%; 
     height:100%; 
     float:left; 
     background:#7777FF
