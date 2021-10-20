@@ -1,0 +1,19 @@
+header{
+    width: 100%;
+    height: 15%;
+    background: blueviolet;
+}
+
+#menu{
+    width:20%; 
+    height:100%; 
+    float:left; 
+    background:#FFFF99 
+}
+
+#contenido{
+    width:80%; 
+    height:100%; 
+    float:left; 
+    background:#7777FF
+}
