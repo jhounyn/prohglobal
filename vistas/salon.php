@@ -40,33 +40,11 @@
                 <div id="titulo"><img id="logo" src="https://i.ibb.co/vXwn2Fq/logo.png"> </div>                         
             </div>
         </header>      
-        <section id="contenido"><p id="bienvenida">BIENVENIDO PROHGLOBAL</p>            
-            <div id="parrafo1">
-            <p>Somos una plataforma diseñada para gestionar de forma adecuada la Propiedad Horizontal.
-            PROHGLOBAL ofrece de manera útil, rápida y eficaz diversas herramientas que permiten co-administrar tu unidad inmobiliaria. A través del aplicativo podemos tener a la mano la solución inmediata para:</p>
-            <ul>
-                <li>Estados de cartera.</li>
-                <li>Listado de unidades inmobiliarias identificados por torre.</li>
-                <li>Listado de ocupación (podrás saber si un inmueble esta ocupado o no)</li>
-                <li>Fila en piscina  (asignación de turnos – COVID19)</li>
-                <li>Reserva de salón social.</li>
-                <li>Cronograma de uso del salón social.</li>
-                <li>Vigilantes en turno.</li>
-                <li>Pre-registro de visitas.</li>
-                <li>Avisos Comunitarios en Tiempo Real.</li>
-                <li>Interacción con guardas a través de chat privado. (específicamente para reportes de seguridad)</li>
-                <li>Buzón de Quejas</li>
-            </ul>
-
-            <p id="negrita" >MISION</p>
-            <p>PROHGLOBAL es una plataforma creada para agregar valor a las comunidades constituidas como Propiedad Horizontal, propendemos por fortalecer la comunicación, interacción y gestión entre administradores, propietarios e inquilinos buscando satisfacer la necesidad de nuestros steakholders y superar sus expectativas.</p>
-            <P id="negrita">VISION</P>
-            <P>PROHGLOBAL será plataforma didáctica, eficiente y preferida por la Propiedad Horizontal en Colombia.</P>
-            <P id="negrita">VALORES</P>
-            <P>Innovación, Inclusión, Comunación, Capacidad de Gestión.</P>
-            </div>
-
-
+        <section id="contenido"><p id="bienvenida">SALON SOCIAL</p>            
+     
         </section>
     </body>
 </html>
+
+<?php
+?>
