@@ -64,7 +64,7 @@ body{
     width: 0; /* 0 width - change this with JavaScript */
     position: fixed; /* Stay in place */
     z-index: 1; /* Stay on top */
-    top: 0; /* mueve menu lateral hacia abajo, esta mas grande el numero mas distancia de la posicion inicial*/
+    top: 8; /* mueve menu lateral hacia abajo, esta mas grande el numero mas distancia de la posicion inicial*/
     left: 0;
     background-color: #f1f1f1; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
