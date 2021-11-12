@@ -1,6 +1,6 @@
 header{
     align-items    :baseline;
-    background     : rgba(226, 168, 6, 0.986);
+ 
     display        : flex;
     height         : 25vh;
     justify-content: center;
@@ -15,7 +15,10 @@ header{
 .sub-titulo{   
    font-size: 2vh;
 }
+body{
+  background     : rgba(226, 168, 6, 0.986);
 
+}
 
 
 #menu{
@@ -28,8 +31,10 @@ header{
 #contenido{
     width:100%; 
     height:100%; 
+    margin-left:2ex;
     float:left; 
     background:rgba(226, 168, 6, 0.986);
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
 #logo{
@@ -39,7 +44,11 @@ header{
 
 }
 
-
+#parrafo1{
+  text-align: justify;
+     width:90%; 
+    height:90%;
+}
 /* The side navigation menu */
 .sidenav {
     height: 100%; /* 100% Full-height */
